@@ -13,7 +13,6 @@ namespace ClientLoadBalancer
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             run(50);
             Console.ReadLine();
         }
