@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P_MaN\\source\\repos\\ClientLoadBalancer\\ClientLoadBalancer\\ClientLoadBalancer.csproj": {}
+    "C:\\Users\\P_MaN\\Documents\\GitHub\\ClientLoadBalancer\\ClientLoadBalancer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P_MaN\\source\\repos\\ClientLoadBalancer\\ClientLoadBalancer\\ClientLoadBalancer.csproj": {
+    "C:\\Users\\P_MaN\\Documents\\GitHub\\ClientLoadBalancer\\ClientLoadBalancer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P_MaN\\source\\repos\\ClientLoadBalancer\\ClientLoadBalancer\\ClientLoadBalancer.csproj",
+        "projectUniqueName": "C:\\Users\\P_MaN\\Documents\\GitHub\\ClientLoadBalancer\\ClientLoadBalancer.csproj",
         "projectName": "ClientLoadBalancer",
-        "projectPath": "C:\\Users\\P_MaN\\source\\repos\\ClientLoadBalancer\\ClientLoadBalancer\\ClientLoadBalancer.csproj",
+        "projectPath": "C:\\Users\\P_MaN\\Documents\\GitHub\\ClientLoadBalancer\\ClientLoadBalancer.csproj",
         "packagesPath": "C:\\Users\\P_MaN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P_MaN\\source\\repos\\ClientLoadBalancer\\ClientLoadBalancer\\obj\\",
+        "outputPath": "C:\\Users\\P_MaN\\Documents\\GitHub\\ClientLoadBalancer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\P_MaN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
